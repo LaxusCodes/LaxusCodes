@@ -2,29 +2,31 @@
 
 <img src="./assets/banner.svg" alt="Welcome to Laxus's GitHub" width="100%"/>
 
-</div>
+<h2>About me</h2>
 
-<details open>
-<summary><h2>About me</h2></summary>
+<table>
+  <tr>
+    <td valign="middle" align="left">
+      <p>Hi there! I'm <b>Laxus</b>. I like figuring things out by doing them, not by reading about them first.</p>
+      <ul>
+        <li><b>Always working on something</b></li>
+        <li>Prefer building over talking about building</li>
+        <li>Developing game servers &amp; custom server mechanics</li>
+        <li>Self-hosting infrastructure &amp; tinkering with Linux setups</li>
+        <li>Into tech, gaming, and whatever new rabbit hole shows up next</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="300">
+      <img src="./assets/about.svg" width="300" alt="Monitor showing code"/>
+    </td>
+  </tr>
+</table>
 
-<img align="right" width="300" src="./assets/about.svg" alt="typing"/>
+<br/>
 
-Hi there! I'm **Laxus**. I like figuring things out by doing them, not by reading about them first.
+<h2>Technologies</h2>
 
-- **Always working on something**
-- Prefer building over talking about building
-- Developing game servers & custom server mechanics
-- Self-hosting infrastructure & tinkering with Linux setups
-- Into tech, gaming, and whatever new rabbit hole shows up next
-
-</details>
-
----
-
-<details open>
-<summary><h2 align="center">Technologies</h2></summary>
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -39,15 +41,10 @@ Hi there! I'm **Laxus**. I like figuring things out by doing them, not by readin
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-</details>
+<br/>
 
----
+<h2>Statistics</h2>
 
-<details open>
-<summary><h2 align="center">Statistics</h2></summary>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LaxusCodes&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaxusCodes&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
-</p>
-
-</details>
+</div>
