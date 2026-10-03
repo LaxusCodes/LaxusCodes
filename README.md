@@ -1,35 +1,54 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:0d1117,100:161b22&height=180&section=header&text=Laxus%20Dreyar&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=%3C/%3E%20just%20a%20small%20dev&descAlignY=65&descSize=16&descColor=8b949e" width="100%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<!-- ABOUT SECTION + MONOCHROME RETRO CODING GIF -->
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding" />
+<img src="./assets/banner.svg" alt="Welcome to Laxus's GitHub" width="100%"/>
 
-### ▸ About me
+</div>
+
+<details open>
+<summary><h2>About me</h2></summary>
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="typing"/>
 
 Hi there! I'm **Laxus**. I like figuring things out by doing them, not by reading about them first.
 
-- 🔭 **Always working on something**
-- ⚙️ Prefer building over talking about building
-- 🛠️ Developing game servers & custom server mechanics
-- 🐧 Self-hosting infrastructure & tinkering with Linux setups
-- 🎮 Into tech, gaming, and whatever new rabbit hole shows up next
+- **Always working on something**
+- Prefer building over talking about building
+- Developing game servers & custom server mechanics
+- Self-hosting infrastructure & tinkering with Linux setups
+- Into tech, gaming, and whatever new rabbit hole shows up next
 
-<br clear="right" />
+</details>
 
 ---
 
-<!-- MONOCHROME TECH STACK -->
-<h3 align="center">▸ Technologies</h3>
+<details open>
+<summary><h2 align="center">Technologies</h2></summary>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,rust,lua,ts,js,bash,linux,docker,git,github&theme=dark" alt="Technologies" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<br />
+</details>
 
-<!-- FIXED GITHUB STATS (BLACK & WHITE THEME) -->
-<h3 align="center">▸ Statistics</h3>
+---
+
+<details open>
+<summary><h2 align="center">Statistics</h2></summary>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxusCodes&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Laxus's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaxusCodes&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxusCodes&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 </p>
+
+</details>
