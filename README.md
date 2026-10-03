@@ -7,7 +7,7 @@
 <details open>
 <summary><h2>About me</h2></summary>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="typing"/>
+<img align="right" width="300" src="./assets/about.svg" alt="typing"/>
 
 Hi there! I'm **Laxus**. I like figuring things out by doing them, not by reading about them first.
 
@@ -48,7 +48,6 @@ Hi there! I'm **Laxus**. I like figuring things out by doing them, not by readin
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LaxusCodes&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxusCodes&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
 </p>
 
 </details>
